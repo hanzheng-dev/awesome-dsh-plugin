@@ -1,0 +1,6 @@
+url: https://github.com/hanzheng-dev/dsh-access-phone-remote/tree/main/plugin
+name: hanzheng-dev/dsh-access-phone-remote#plugin
+category: remote
+description:
+  en: 'Supervises the dsh-access-phone-remote server from inside the harness: start, stop and restart it, health-check it over loopback, tail its log, and edit its project directory and port from a Settings section that shows the phone URL with a locally rendered QR code.'
+  zh: '在 harness 内托管 dsh-access-phone-remote 服务端：启动、停止、重启，走回环做健康检查，读日志尾部；设置页里可改项目目录与端口，并显示手机访问地址和本地生成的二维码。'
